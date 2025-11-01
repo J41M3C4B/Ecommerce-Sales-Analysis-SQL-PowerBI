@@ -26,10 +26,10 @@ El análisis se dividió en 4 fases clave:
   *Se filtraron cancelaciones ('Quantity' < 0) y transacciones sin 'CustomeID'.
   * **Imputación de datos:** Se corrigieron descripciones de productos erróneas (ej. '?', 'check', 'wrongly marked') reemplazandolas con la descripción mas frecuente para ese 'StockCode'.
   * **Estandarización:** Se limpiaron caracteres no deseados ('+', '*', '?') y se estandarizó el formato de 'Description' y 'Country' usando 'INITCAP' Y 'TRIM'.
-* **El script SQL completo (v_NewCleanSales.sql) esta iuncluido en el repositorio.
+* *El script SQL completo (v_NewCleanSales.sql) esta iuncluido en el repositorio.*
 
   
-** Fase3: Modelado de Datos (DAX en Power BI)**
+**Fase3: Modelado de Datos (DAX en Power BI)**
 *Se creó una tabla de medidas ('_Medidas') para centralizar los cálculos.
 * **Medidas DAX Creadas:** '[Total Ventas]', '[Num Pedidos]', '[Num Clientes]', '[Ticket Promedio]', '[Total Unidades]'.
 * **Tabla RFM:** Se creo una tabla calculada ('CustomerTable') usando 'SUMMARIZE' para agrupar las transacciones por cliente y calcular su 'Frequency' y 'Monetary'. Se añadio una columna calculada para 'Recency'.
