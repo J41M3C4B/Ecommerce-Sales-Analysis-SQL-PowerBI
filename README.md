@@ -46,6 +46,6 @@ El dashboard interactivo de 3 paginas responde a las preguntas clave del negocio
      * Nuestro mercado principal es, sin duda Europa (Reino Unido).
      * Se observa tambien que hay un promedio de ~6.3 pedidos por cliente, indicando una tasa saludable de repeticion de compra.
      * El top 3 best sellers se lo lleva 'Regency Cake 3 Tier', 'White Hanging Heart T-Light Holder' y 'Paper Craft, Little Birdie'.
-* *En conslusion del informe general, se percibe que la tienda E-commerce tiene una estacionalidad extremadamente marcada. El último cuatrimestre del año es, por mucho el periodo mas critico y rentable. Toda la estrategia de inventario, marketing y logistica debe estar preparada para esta explosion de demanda a fin de año. Cualquier estrategia de creciemiento debe considerar si intensificar en Europa (donde ya tenemos exito) o intentar expandir y desarrollar los mercados secuandarios como el norteamericano.
+* *En conslusion del informe general, se percibe que la tienda E-commerce tiene una estacionalidad extremadamente marcada. El último cuatrimestre del año es, por mucho el periodo mas critico y rentable. Toda la estrategia de inventario, marketing y logistica debe estar preparada para esta explosion de demanda a fin de año. Cualquier estrategia de creciemiento debe considerar si intensificar en Europa (donde ya tenemos exito) o intentar expandir y desarrollar los mercados secuandarios como el norteamericano.*
 
 ### Pagina 2: Resumen general
