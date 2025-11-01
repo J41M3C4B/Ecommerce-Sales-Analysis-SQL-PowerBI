@@ -74,8 +74,8 @@ El dashboard interactivo de 3 páginas responde a las preguntas clave del negoci
 <img width="1108" height="620" alt="image" src="https://github.com/user-attachments/assets/522cec93-45cd-4f7b-a18d-fc693b1776de" />
 
 
+**Link para interactuar con el dashboard**:
 
-* **Link para interactuar con el dashboard**
 https://app.powerbi.com/view?r=eyJrIjoiMDYwY2NmMTMtMGUzNC00YWNlLWI3YWQtYmMyNDJjNzY4ZmZiIiwidCI6ImIwM2EzOWY4LWVlNDAtNDk3My1hNDUwLTIyOGExYzY3YWI0YSJ9
 
 
