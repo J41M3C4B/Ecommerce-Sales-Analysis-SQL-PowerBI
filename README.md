@@ -40,8 +40,10 @@ El dashboard interactivo de 3 paginas responde a las preguntas clave del negocio
 
 ### Pagina 1: Resumen general
 * **KPI´s:** [Ventas Totales: $17.07 Mill.], [Num. Clientes: 5,861], [Ticket Promedio: $465.59], [Num. Pedidos: 37,000], [Prom Pedidos Cliente: ~6.3].
-* **Hallazgo:**
-  * Se identifico que las ventas se disparan en los meses de octubre y noviembre, preparando  la temporada navideña.
-  * La ventas se mantienen estables durante los primeros meses del año (enero - agosto). entre $1M y $1.5M por mes, con una pequeña caida en febrero y un ligero repunte en marzo/abril.
-  * Se tiene un ticket promedio de $465.59, lo cual indica que tenemos un promedio alto, ya sea por que los clientes compran productos de alto valor o compran multiples articuios en una sola compra.
-  * Se observa tambien que hay un promedio de ~6.3 pedidos por cliente, indicando una tasa saludable de repeticion de compra.
+* **Hallazgos:**
+  *📈Tendencia Anual 
+     * Se identifico que las ventas se disparan en los meses de octubre y noviembre, preparando  la temporada navideña.
+     * La ventas se mantienen estables durante los primeros meses del año (enero - agosto). entre $1M y $1.5M por mes, con una pequeña caida en febrero y un ligero repunte en marzo/abril.
+     * Se tiene un ticket promedio de $465.59, lo cual indica que tenemos un promedio alto, ya sea por que los clientes compran productos de alto valor o compran multiples articuios en una sola compra.
+     * Se observa tambien que hay un promedio de ~6.3 pedidos por cliente, indicando una tasa saludable de repeticion de compra.
+* *En conslusion del informe general, se percibe que el negocio tiene una estacionalidad extremadamente marcada. El último cuatrimestre del año es, por mucho el periodo mas critico y rentable. Toda la estrategia de inventario, marketing y logistica debe estar preparada para esta explosion de demanda a din de año.
