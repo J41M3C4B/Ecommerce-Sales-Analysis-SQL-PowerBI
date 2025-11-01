@@ -68,9 +68,7 @@ El dashboard interactivo de 3 páginas responde a las preguntas clave del negoci
 3.  **Crecimiento y Venta Cruzada:** Ofrecer promociones de los Top 10 productos al segmento de **Clientes Nuevos** (baja recencia, baja frecuencia) para aumentar su lealtad e **interés**.
 
 ## 7. Dashboard Interactivo
-
-
-
+https://app.powerbi.com/view?r=eyJrIjoiMDYwY2NmMTMtMGUzNC00YWNlLWI3YWQtYmMyNDJjNzY4ZmZiIiwidCI6ImIwM2EzOWY4LWVlNDAtNDk3My1hNDUwLTIyOGExYzY3YWI0YSJ9
 
 
 
