@@ -14,7 +14,7 @@ El objetivo de este proyecto fue analizar el historial de transacciones en un pe
 **PostgreSQL (SQL):** Se utilizo para todo el proceso de **ETL (Extracción, Transformación y Carga)**. Debido al gran volumen de datos (+500,000 filas), SQL fue esencial para almacenar, limpiar, estandarizar e imputar datos de forma eficiente antes del analisis. 
 **Power BI:** Se usó como la herramienta de **Business Intelligence (BI)** para conectar en vivo la vista de SQL (v_NewCleanSales), crear metricas DAX y visualizar los hallazgos en un dashboard interactivo de 3 paginas.
 
-##4. Proceso de Análisis (ETL y Modelado)
+## 4. Proceso de Análisis (ETL y Modelado)
 El análisis se dividió en 4 fases clave:
 **Fase 1: Carga y Exploración (ETL)**
 *Se cargo el dataset crudo (.csv) de mas de 500,000 registros en una base de datos PostgreSQL.
