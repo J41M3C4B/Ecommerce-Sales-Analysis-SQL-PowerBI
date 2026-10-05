@@ -1,6 +1,6 @@
 # Ecommerce-Sales-Analysis-SQL-PowerBI
 
-## 🧭 Propósito del proyecto
+## Propósito del proyecto
 Proyecto de práctica de **nivel intermedio**: usar SQL como capa de negocio (limpieza e imputación en una vista) y Power BI para segmentar clientes y convertir hallazgos en recomendaciones accionables.
 
 **Habilidades que pone en práctica:**
