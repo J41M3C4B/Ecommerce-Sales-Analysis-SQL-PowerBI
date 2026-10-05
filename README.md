@@ -1,5 +1,15 @@
 # Ecommerce-Sales-Analysis-SQL-PowerBI
 
+## 🧭 Propósito del proyecto
+Proyecto de práctica de **nivel intermedio**: usar SQL como capa de negocio (limpieza e imputación en una vista) y Power BI para segmentar clientes y convertir hallazgos en recomendaciones accionables.
+
+**Habilidades que pone en práctica:**
+* Limpieza, estandarización e imputación de datos con SQL (+500,000 filas) expuestos mediante una vista de PostgreSQL.
+* Medidas DAX y tabla calculada con `SUMMARIZE` para el análisis **RFM** (Recencia, Frecuencia, Monetario).
+* Análisis de productos (principio de Pareto) y comunicación de recomendaciones a la gerencia.
+
+---
+
 ## 1. Problema de Negocio
 
 La empresa ficticia "UK Gifts Online", una tienda de e-commerce de regalos en el Reino Unido, **experimentó** un estancamiento en sus ventas. La gerencia operaba "a ciegas", sin comprender **qué** productos eran exitosos, **cuándo** ocurrían los picos de ventas, o **quiénes** eran sus clientes **más** valiosos.
